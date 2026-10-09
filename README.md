@@ -1,0 +1,2 @@
+# premium-clinker-hull-001-clinker-planking-overlap-guide
+Clinker planking calculations got you second-guessing every overlap measurement? This Notion template eliminates guesswork and gives you a repeatable, precision-engineered system for getting overlaps right every single time.  The Clinker Planking Overlap Guide is a Notion template purpose-built to standardize your overlap calculations, material tra
